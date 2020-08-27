@@ -1,1 +1,2 @@
 "# SpotifyUpdater" 
+This is being ran on AWS lambda via importing a zip file onto AWS lambda, reason being is because we needed to manually add our Linux libraries onto Lambda. Zip file is omitted because of private keys and space. The lambda tests were to see if those would work before trying to put my actual code in. If activated, the lambda code will run monthly to update the charts for who has what in their playlists. Need a creds.json file with authentication information in order to proceed with using the code. Also get your Spotify and Google Sheets tokens.
