@@ -1,0 +1,8 @@
+/.idea 
+/__pycache__ 
+/package
+Friends_Playlist.txt 
+GoogleSheets_Tokens.txt 
+Spotify_Tokens.txt
+creds.json
+function.zip
